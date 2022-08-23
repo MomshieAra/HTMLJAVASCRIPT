@@ -4,7 +4,7 @@
 
 <script>
 
-alert ("Hello, Philippines!");
+alert ("Galaxy/solar system");
 
 </script>
 
